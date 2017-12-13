@@ -6,3 +6,5 @@ When the application is run on load it would be authorised and list the existing
 User can upload any kind of file to the network.
 
 The data is SafeMutableData.
+
+safeMutableData insert can allow you to upload a max of 1 MB data on to the network
